@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:smsplus="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/createNewMessage"
+        android:icon="@drawable/ic_action_new"
+        android:title="@string/action_bar_main_create_new_sms"
+        smsplus:showAsAction="ifRoom|withText">
+    </item>
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_action_settings"
+        android:title="@string/action_bar_settings"
+        smsplus:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/statistics"
+        android:title="@string/action_bar_statistics"
+        smsplus:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_action_about"
+        android:title="@string/action_bar_about"
+        smsplus:showAsAction="never">
+    </item>
+
+</menu>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:smsplus="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/call"
+        android:icon="@drawable/ic_action_call"
+        android:title="@string/contextual_menu_call"
+        smsplus:showAsAction="ifRoom|withText">
+    </item>
+    
+    <item
+        android:id="@+id/view"
+        android:icon="@drawable/ic_action_person"
+        android:title="@string/contextual_menu_viw"
+        smsplus:showAsAction="ifRoom|withText">
+    </item>
+
+</menu>

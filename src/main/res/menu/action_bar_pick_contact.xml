@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:smsplus="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/deviceContacts"
+        android:icon="@drawable/ic_action_phone"
+        android:title="@string/recepient_from_device"
+        smsplus:showAsAction="ifRoom|withText">
+    </item>
+    <item
+        android:id="@+id/refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:title="@string/recepient_refresh"
+        smsplus:showAsAction="ifRoom|withText">
+    </item>
+
+</menu>

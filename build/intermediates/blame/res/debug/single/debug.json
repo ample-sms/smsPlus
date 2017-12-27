@@ -1,0 +1,1890 @@
+[
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_wink.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_wink.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\menu_action_bar_pick_contact.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\menu\\action_bar_pick_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_message_received.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_message_received.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_gusp.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_gusp.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_call.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_action_call.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_brand.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\brand.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_about.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_new.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_squint.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_squint.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_count_balloon.9.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_notifications_count_balloon.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_chat.9.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\blue_chat.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_refresh.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\menu_context_menu_chat_item.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\menu\\context_menu_chat_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_send_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_send_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_squint.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_squint.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_heart.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_smilies_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_smilies_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_message_delivered.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_message_delivered.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_ambivalent.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_ambivalent.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_smilies_selected_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_smilies_selected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_kiss.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_kiss.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_slant.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_slant.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_error.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_message_creation_compound_component.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\message_creation_compound_component.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_smilies_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_smilies_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_call.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_action_call.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_list_item_contact.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\list_item_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_count_balloon.9.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_notifications_count_balloon.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background_light.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_fragment_registration_progress.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\fragment_registration_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_sick.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_sick.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_smilies_selected_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_smilies_selected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_phone.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_action_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_ambivalent.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_ambivalent.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_fragment_statistics.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\fragment_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration_progress.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\activity_registration_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_cool.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_cool.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_fragment_clock_error.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\fragment_clock_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_smilies_selected_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_smilies_selected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_activity_pick_contact.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\activity_pick_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_cool.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_cool.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_thumb_up.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_thumb_up.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_add_person.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_action_add_person.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_crying.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_crying.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_brand.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\brand.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dollar.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_dollar.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_send_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_send_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_confused.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_confused.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_refresh.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_kiss.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_kiss.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_devil.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_devil.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_count_balloon.9.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_notifications_count_balloon.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_about.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_frown.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_frown.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_new.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_wink.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_wink.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_smilies_normal_disabled.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_smilies_normal_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_sleepy.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_sleepy.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_send_disabled.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_send_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_sick.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_sick.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_laugh_open_eyes.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_laugh_open_eyes.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_squint.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_squint.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_send_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_send_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\menu_action_bar_create_new.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\menu\\action_bar_create_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_ic_backspace.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable\\ic_backspace.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_phone.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_action_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_new.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_cool.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_cool.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_party.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_party.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_laugh_open_eyes.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_laugh_open_eyes.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_message_received.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_message_received.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_ic_help.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_angry.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_angry.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_laugh_open_eyes.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_laugh_open_eyes.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_help_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_help_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_et_bkg.9.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\et_bkg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_frown.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_frown.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_et_bkg.9.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\et_bkg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_activity_clock_error.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\activity_clock_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_smile.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_smile.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_devil.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_devil.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_ambivalent.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_ambivalent.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\menu_action_bar_chat.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\menu\\action_bar_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_angry.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_angry.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_person.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_action_person.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_angry.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_angry.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_sleepy.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_sleepy.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_smile.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_smile.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_crying.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_crying.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_stats.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_stats.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_smilies_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_smilies_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_crying.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_crying.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_ic_smilies_selected.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable\\ic_smilies_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_smilies_normal_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_smilies_normal_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_about.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_devil.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_devil.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_wink.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_wink.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_heart.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_backspace_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_backspace_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_send_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_send_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_backspace_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_backspace_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_heart.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_gusp.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_gusp.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_backspace_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_backspace_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_list_item_section_header.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\list_item_section_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_sleepy.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_sleepy.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_chat.9.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\blue_chat.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_activity_number_entering.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\activity_number_entering.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_kiss.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_kiss.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\menu_context_menu_thread.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\menu\\context_menu_thread.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_error.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_error.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_thumb_up.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_thumb_up.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_chat.9.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\blue_chat.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_refresh.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_list_item_smilies.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\list_item_smilies.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_list_item_chat_message.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\list_item_chat_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_help_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_help_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_smilies_normal_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_smilies_normal_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_send_failed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_send_failed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_activity_statistics.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\activity_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_orange_chat.9.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\orange_chat.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_activity_message_creation.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\activity_message_creation.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_backspace_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_backspace_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_orange_chat.9.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\orange_chat.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_add_person.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_action_add_person.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_confused.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_confused.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_add_person.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_action_add_person.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_help_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_help_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_smilies_normal_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_smilies_normal_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_send_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_send_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_et_bkg.9.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\et_bkg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_call.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_action_call.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_backspace_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_backspace_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_smilies_selected_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_smilies_selected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_help_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_help_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_backspace_disabled.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_backspace_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_yuck.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_yuck.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_slant.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_slant.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\menu_action_bar_main.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\menu\\action_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_slant.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_slant.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background_dark.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_help_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_help_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_smilies_selected_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_smilies_selected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_full_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_help_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_help_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_message_delivered.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_message_delivered.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_backspace_normal.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_backspace_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_brand.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\brand.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_confused.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_confused.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_list_item_pick_contact.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\list_item_pick_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_yuck.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_yuck.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_send_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_send_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dollar.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_dollar.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\menu_context_menu_chat_item_failed.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\menu\\context_menu_chat_item_failed.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_stats.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_stats.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_frown.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_frown.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_ic_smilies_not_selected.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable\\ic_smilies_not_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_error.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_error.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_smilies_normal_disabled.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_smilies_normal_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_message_delivered.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_message_delivered.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dollar.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_dollar.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_smilies_selected_pressed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_smilies_selected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_smile.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_smile.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_stats.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_stats.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_phone.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_action_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_send_failed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\ic_send_failed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_gusp.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_gusp.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_send_failed.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_send_failed.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_smilies_normal_disabled.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_smilies_normal_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_send_disabled.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_send_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_orange_chat.9.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\orange_chat.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smiley_party.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\smiley_party.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smiley_yuck.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\smiley_yuck.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_send_disabled.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_send_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_fragment_entering_user_phone_number.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\fragment_entering_user_phone_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_message_received.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_message_received.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smiley_sick.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-mdpi\\smiley_sick.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-ldrtl-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\falazigb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\79b05c01f29687eb8f3c07689c20751d\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_backspace_disabled.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-hdpi\\ic_backspace_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_backspace_disabled.png.flat",
+        "source": "C:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\src\\main\\res\\drawable-xhdpi\\ic_backspace_disabled.png"
+    }
+]

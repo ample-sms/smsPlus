@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <RelativeLayout
+        android:id="@+id/rightBarRL"
+        android:layout_width="50dp"
+        android:layout_height="100dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:paddingTop="4dp" >
+
+        <ImageView
+            android:id="@+id/sendIB"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:contentDescription="@string/message_creation_send_button"
+            android:enabled="false"
+            android:src="@drawable/ic_send" />
+
+        <TextView
+            android:id="@+id/charsPartsCounterTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/sendIB"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="1dp"
+            android:text="@string/message_creation_initial_message_count" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/leftBarRL"
+        android:layout_width="50dp"
+        android:layout_height="55dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/charsPartsCounterTV" >
+
+        <ImageView
+            android:id="@+id/smiliesIV"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_smilies_not_selected" />
+    </RelativeLayout>
+
+    <ghareeb.smsplus.MonitoringEditText
+        android:id="@+id/messageBodyET"
+        style="@style/WhiteEditText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/smiliesRL"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/rightBarRL"
+        android:layout_toRightOf="@+id/leftBarRL"
+        android:ems="10"
+        android:layout_marginBottom="5dp"
+        android:gravity="top"
+        android:hint="@string/message_creation_enter_message_body"
+        android:inputType="textMultiLine" />
+
+    <RelativeLayout
+        android:id="@+id/smiliesRL"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/rightBarRL"
+        android:background="@color/color_very_dark_grey"
+        android:padding="5dp"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/backspaceIV"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/ic_backspace" />
+
+        <GridView
+            android:id="@+id/smiliesGV"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@+id/backspaceIV"
+            android:numColumns="5"
+            android:verticalSpacing="7dp" />
+    </RelativeLayout>
+
+</merge>

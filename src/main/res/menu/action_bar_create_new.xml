@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:smsplus="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/setContact"
+        android:icon="@drawable/ic_action_add_person"
+        android:title="@string/action_bar_create_new_sms_set_contact"
+        smsplus:showAsAction="ifRoom|withText">
+    </item>
+
+</menu>

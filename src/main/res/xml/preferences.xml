@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="pref_notifications_category"
+        android:title="@string/pref_notifications_category" >
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="pref_notifications"
+            android:summary="@string/pref_notifications_summary"
+            android:title="@string/pref_notifications_title" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:dependency="pref_notifications"
+            android:key="pref_delivery_reports"
+            android:summary="@string/pref_delivery_reports_summary"
+            android:title="@string/pref_delivery_reports_title" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:dependency="pref_notifications"
+            android:key="pref_notifications_new_contacts"
+            android:summary="@string/pref_new_contacts_summary"
+            android:title="@string/pref_new_contact_title" />
+
+        <RingtonePreference
+            android:dependency="pref_notifications"
+            android:key="pref_notifications_ring_tone"
+            android:ringtoneType="notification"
+            android:showDefault="true"
+            android:showSilent="true"
+            android:title="@string/pref_ring_tone_title" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="pref_call_center_category"
+        android:title="@string/pref_call_center_category" >
+        <EditTextPreference
+            android:defaultValue=""
+            android:key="pref_call_center"
+            android:summary="@string/pref_call_center_summary"
+            android:title="@string/pref_call_center_title" >
+        </EditTextPreference>
+    </PreferenceCategory>
+
+</PreferenceScreen>

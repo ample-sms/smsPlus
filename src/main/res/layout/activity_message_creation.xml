@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/messageCreationActivityRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_black" >
+
+    <EditText
+        android:id="@+id/toET"
+        style="@style/WhiteEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="5dp"
+        android:ems="10"
+        android:gravity="left|top"
+        android:hint="@string/message_creation_recepient_hint"
+        android:inputType="phone" />
+
+    <ghareeb.smsplus.Component_MessageCreator
+        android:id="@+id/messageCreator"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toET" >
+    </ghareeb.smsplus.Component_MessageCreator>
+
+</RelativeLayout>

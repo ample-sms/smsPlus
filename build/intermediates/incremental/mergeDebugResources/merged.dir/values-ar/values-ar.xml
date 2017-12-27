@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s، %2$s، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="about_visit_us">زر صفحتنا على فايسبوك</string>
+    <string name="action_bar_about">عن التطبيق</string>
+    <string name="action_bar_create_new_sms_set_contact">حدد المستقبل</string>
+    <string name="action_bar_main_create_new_sms">أنشئ رسالة نصية جديدة</string>
+    <string name="action_bar_settings">الإعدادات</string>
+    <string name="action_bar_statistics">الإحصائيات</string>
+    <string name="action_bar_title_compose">أنشئ رسالة</string>
+    <string name="action_bar_title_statistics">الإحصائيات</string>
+    <string name="chat_draft_saved">تم حفظ المسودّة</string>
+    <string name="chat_failed">فشل</string>
+    <string name="chat_message_details_delivery_report_delivered">تم استلامه</string>
+    <string name="chat_message_details_delivery_report_failed">فشلت</string>
+    <string name="chat_message_details_delivery_report_requested">تم طلب التقرير</string>
+    <string name="chat_message_details_delivery_report_title">تقرير التسليم:</string>
+    <string name="chat_message_details_from">من:</string>
+    <string name="chat_message_details_received">الاستقبال:</string>
+    <string name="chat_message_details_sent">الإرسال:</string>
+    <string name="chat_message_details_title">تفاصيل الرسالة</string>
+    <string name="chat_message_details_to">إلى:</string>
+    <string name="contact_not_found">لم يتم إيجاد جهة الاتصال</string>
+    <string name="contextual_menu_call">اتصل</string>
+    <string name="contextual_menu_copy">نسخ</string>
+    <string name="contextual_menu_delete_message">حذف الرسالة</string>
+    <string name="contextual_menu_delete_thread">حذف المحادثة</string>
+    <string name="contextual_menu_resend">إعادة إرسال</string>
+    <string name="contextual_menu_show_message_details">أظهر تفاصيل الرسالة</string>
+    <string name="contextual_menu_viw">أظهر تفاصيل جهة الاتصال</string>
+    <string name="date_error_check_online">تحقق بالانترنت</string>
+    <string name="date_error_check_settings_button_text">إعدادات الساعة</string>
+    <string name="date_error_description">لقد حدد التطبيق أن ساعة جهازك خاطئة. صحح الساعة ثم أعد المحاولة.\nإذا كنت متأكداً من أن الساعة صحيحة تحقق منها باستخدام الانترنت.</string>
+    <string name="date_error_title">خطأ في الساعة</string>
+    <string name="date_error_toast_checking_online">التحقق من الساعة...</string>
+    <string name="date_error_toast_clock_invalid">الساعة غير صحيحة!</string>
+    <string name="date_error_toast_clock_valid">الساعة صحيحة</string>
+    <string name="dialog_cancel_button">إلغاء</string>
+    <string name="dialog_delete_button">حذف</string>
+    <string name="dialog_delete_message_body">سيتم حذف الرسالة نهائياً.</string>
+    <string name="dialog_delete_message_title">حذف الرسالة؟</string>
+    <string name="dialog_delete_thread_body">سيتم حذف جميع الرسائل ضمن هذا الحوار.</string>
+    <string name="dialog_delete_thread_title">حذف الحوار؟</string>
+    <string name="dialog_no_internet_body">عملية التسجيل تتطلب اتصالاً بالانترنت.</string>
+    <string name="dialog_no_internet_title">لا يوجد اتصال بالانترنت</string>
+    <string name="dialog_savings_details_title">تفاصيل التوفير</string>
+    <string name="dialog_send_verification_body">هذه العملية ستكلفك رسالة قصيرة محلية.</string>
+    <string name="dialog_send_verification_title">هل تريد المتابعة؟</string>
+    <string name="dialog_yes">نعم</string>
+    <string name="image_descriptor_contact">صورة جهة الاتصال</string>
+    <string name="internet_fail">فشل الاتصال بالمخدم</string>
+    <string name="main_click_plus_to_start">لكي تبدأ محادثة جديدة اضغط زر \'+\' الموجود في الأعلى</string>
+    <string name="main_draft">مسودة</string>
+    <string name="message_creation_enter_message_body">أدخل الرسالة</string>
+    <string name="message_creation_error">حصل خطأ</string>
+    <string name="message_creation_recepient_hint">إلى</string>
+    <string name="message_creation_send_button">أرسل</string>
+    <string name="message_creation_sending">جاري الإرسال...</string>
+    <string name="notification_new_contacts_body">انضم عدد من جهات الاتصال إلى Ample SMS</string>
+    <string name="notification_new_contacts_title">جهة اتصال جديدة خاصة بالتطبيق</string>
+    <string name="notification_text_delivered">تم تسليم الرسالة إلى</string>
+    <string name="notification_text_failed">فشلت عملية إرسال الرسالة إلى</string>
+    <string name="notification_text_unread_messages">رسائل غير مقروءة</string>
+    <string name="notification_title_delivered">تقرير التسليم</string>
+    <string name="notification_title_failed">لم يتم إرسال الرسالة</string>
+    <string name="notification_title_unread_messages">رسائل غير مقروءة</string>
+    <string name="ok">حسناً</string>
+    <string name="pref_call_center_category">مركز المكالمات</string>
+    <string name="pref_call_center_summary">حدد مركز المكالمات، اترك هذا الحقل فارغاً إذا كنت تريد استخدام مركز المكالمات الافتراضي</string>
+    <string name="pref_call_center_title">مركز المكالمات</string>
+    <string name="pref_delivery_reports_summary">إظهار تنبيه عند استلام تقرير بالتسليم</string>
+    <string name="pref_delivery_reports_title">تقارير التسليم</string>
+    <string name="pref_new_contact_title">انضمام جهة اتصال جديدة</string>
+    <string name="pref_new_contacts_summary">إظهار تنبيه عندما تنضم جهات اتصال جديدة إلى Ample SMS</string>
+    <string name="pref_notifications_category">التنبيهات</string>
+    <string name="pref_notifications_summary">اسمح للتطبيق أن يقوم بتنبيهك</string>
+    <string name="pref_notifications_title">التنبيهات</string>
+    <string name="pref_ring_tone_silence">صامت</string>
+    <string name="pref_ring_tone_title">رنة التنبيه</string>
+    <string name="recepient_from_device">من الجهاز</string>
+    <string name="recepient_no_contacts">لا أحد من أصدقائك يستخدم Ample SMS، يمكنك تحديث القائمة أو اختيار جهة اتصال موجودة في الجهاز.</string>
+    <string name="recepient_refresh">تحديث</string>
+    <string name="recepient_refreshing">جاري التحديث</string>
+    <string name="recepient_title">جهات اتصال Ample</string>
+    <string name="register_failed">فشل التسجيل!</string>
+    <string name="register_hint_enter_phone_number">رقم الجوال</string>
+    <string name="register_number_missing_invalid">رقم الجوال فارغ أو غير صحيح</string>
+    <string name="register_ok_description">لقد تمت عملية التسجيل بنجاح.</string>
+    <string name="register_ok_title">نجح التسحيل!</string>
+    <string name="register_please_wait">الرجاء الانتظار ريثما تنتهي عملية التسجيل.</string>
+    <string name="register_register">سجل</string>
+    <string name="register_registering">جاري التسجيل</string>
+    <string name="register_registering_number">تسجيل رقم الهاتف...</string>
+    <string name="register_registration_request">الرجاء إدخال رقم جوالك بدون أصفار في البداية</string>
+    <string name="register_retrieving_numbers">جلب قائمة جهات اتصال Ample SMS...</string>
+    <string name="register_status">الحالة</string>
+    <string name="register_title">تسجيل البرنامج</string>
+    <string name="register_verification_failed">فشل التحقق. الرجاء التحقق من الرقم.</string>
+    <string name="register_verifying_internet_connection">التحقق من الاتصال بالنترنت...</string>
+    <string name="register_verifying_number">التحقق من رقم الهاتف...</string>
+    <string name="register_welcome">مرحباً بك في Ample SMS</string>
+    <string formatted="false" name="savings_description">لقد قمت بإرسال (%d) رسالة قصيرة باستخدام التطبيق منذ (%s).\n\nلو استخدمت تطبيقاً عادياً لكنت قد أرسلت (%d) رسالة قصيرة.\n\nإجمالي التوفير هو (%d) رسالة قصيرة.\n</string>
+    <string name="statistics_messages">رسالة</string>
+    <string name="statistics_processing">قيد المعالجة...</string>
+    <string name="statistics_received_messages">الرسائل المستقبلة</string>
+    <string name="statistics_sent_messages">الرسائل المرسلة</string>
+    <string name="statistics_smss">رسالة  قصيرة</string>
+    <string name="statistics_total_savings_title">إجمالي التوفير</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="subscription_expired_description">إن اشتراكك في التطبيق قد انتهى. يمكنك أن تستقبل الرسائل فقط.</string>
+    <string name="subscription_expired_title">انتهى اشتراكك بالتطبيق!</string>
+    <string formatted="false" name="subscription_remaining_days">سينتهي اشتراكك بالتطبيق بعد %d يوماً.</string>
+    <string name="toast_number_not_registered">رقم الجوال ليس مسجلاً</string>
+    <string name="toast_preparing_database">تجهيز التطبيق للاستخدام الأول...</string>
+</resources>
