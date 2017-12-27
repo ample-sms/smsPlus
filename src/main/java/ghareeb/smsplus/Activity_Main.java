@@ -1,23 +1,30 @@
 package ghareeb.smsplus;
 
+import android.Manifest;
+import android.content.BroadcastReceiver;
+import android.content.Context;
+import android.content.Intent;
+import android.content.IntentFilter;
+import android.content.pm.PackageManager;
+import android.os.Bundle;
+import android.preference.PreferenceManager;
+import android.support.annotation.NonNull;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
+import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
+
 import ghareeb.smsplus.database.SmsPlusDatabaseHelper;
 import ghareeb.smsplus.database.entities.ReceivedMessage;
 import ghareeb.smsplus.database.entities.ThreadEntity;
 import ghareeb.smsplus.fragments.Dialog_DeleteThread;
 import ghareeb.smsplus.fragments.Fragment_ThreadsList;
 import ghareeb.smsplus.fragments.helper.FragmentListener;
-import android.content.BroadcastReceiver;
-import android.content.Context;
-import android.content.Intent;
-import android.content.IntentFilter;
-import android.os.Bundle;
-import android.preference.PreferenceManager;
-import android.support.v7.app.ActionBarActivity;
-import android.view.Menu;
-import android.view.MenuInflater;
-import android.view.MenuItem;
 
-public class Activity_Main extends ActionBarActivity implements FragmentListener
+public class Activity_Main extends AppCompatActivity implements FragmentListener
 {
 	class ReceivedMessageReceiver extends BroadcastReceiver
 	{
@@ -39,6 +46,8 @@ public class Activity_Main extends ActionBarActivity implements FragmentListener
 	}
 
 	private ReceivedMessageReceiver receivedMessageReceiver;
+	private int indexOfContactToBeCalled = -1;
+	private static final int EVENT_CALL_PERMISSION_REQUIRED = 1;
 
 	protected void onCreate(Bundle savedInstanceState)
 	{
@@ -124,6 +133,19 @@ public class Activity_Main extends ActionBarActivity implements FragmentListener
 				Dialog_DeleteThread deleteDialog = new Dialog_DeleteThread();
 				deleteDialog.show(getSupportFragmentManager(), "DeleteDialog");
 				break;
+			case Fragment_ThreadsList.EVENT_CALL_CLICKED:
+				int permission = ContextCompat.checkSelfPermission(this, Manifest.permission.CALL_PHONE);
+
+				if(permission == PackageManager.PERMISSION_GRANTED) {
+					Fragment_ThreadsList fragment = (Fragment_ThreadsList) getSupportFragmentManager().findFragmentById(
+							R.id.threadsFragment);
+					fragment.performCall((int)obj);
+				} else {
+					this.indexOfContactToBeCalled = (int)obj;
+					ActivityCompat.requestPermissions(this,
+							new String[]{Manifest.permission.CALL_PHONE}, EVENT_CALL_PERMISSION_REQUIRED);
+				}
+				break;
 			case Dialog_DeleteThread.EVENT_YES_PRESSED:
 				Fragment_ThreadsList fragment = (Fragment_ThreadsList) getSupportFragmentManager().findFragmentById(
 						R.id.threadsFragment);
@@ -133,4 +155,17 @@ public class Activity_Main extends ActionBarActivity implements FragmentListener
 
 	}
 
+	@Override
+	public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+		switch (requestCode){
+			case EVENT_CALL_PERMISSION_REQUIRED:
+				if(grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
+					Fragment_ThreadsList fragment = (Fragment_ThreadsList) getSupportFragmentManager().findFragmentById(
+							R.id.threadsFragment);
+					fragment.performCall(this.indexOfContactToBeCalled);
+				} else {
+					Log.e(Activity_Main.class.getName(), "CALL_PHONE permission not granted");
+				}
+		}
+	}
 }

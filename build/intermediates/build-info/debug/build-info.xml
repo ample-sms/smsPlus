@@ -5,28 +5,25 @@
     build-mode="COLD"
     density="xxxhdpi"
     format="10"
-    ir-eligibility="FIELD_REMOVED"
+    ir-eligibility="FIELD_ADDED"
     plugin-version="3.0.1"
-    timestamp="1514332840185"
+    timestamp="1514338340959"
     token="2394541609516463562"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="8405" />
+        duration="6644" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="243" />
+        duration="181" />
     <task
         name="verifier"
-        duration="141" />
+        duration="44" />
 
-    <artifact
-        location="C:\Users\falazigb\StudioProjects\SmsPlus\smsPlus\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
     <artifact
         location="C:\Users\falazigb\StudioProjects\SmsPlus\smsPlus\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
@@ -77,12 +74,21 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="FIELD_REMOVED"
-        timestamp="1514332840185"
+        ir-eligibility="FIELD_ADDED"
+        timestamp="1514337623898"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\falazigb\StudioProjects\SmsPlus\smsPlus\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
+        <artifact
+            location="C:\Users\falazigb\StudioProjects\SmsPlus\smsPlus\build\outputs\apk\debug\smsPlus-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="FIELD_ADDED"
+        timestamp="1514338340959"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\falazigb\StudioProjects\SmsPlus\smsPlus\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />

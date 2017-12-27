@@ -1,31 +1,12 @@
 package ghareeb.smsplus.fragments;
 
-import ghareeb.smsplus.R;
-import ghareeb.smsplus.Service_MessagePartDelivered;
-import ghareeb.smsplus.database.SmsPlusDatabaseHelper;
-import ghareeb.smsplus.database.entities.Contact;
-import ghareeb.smsplus.database.entities.Message;
-import ghareeb.smsplus.database.entities.ReceivedMessage;
-import ghareeb.smsplus.database.entities.SentMessage;
-import ghareeb.smsplus.database.entities.ThreadEntity;
-import ghareeb.smsplus.fragments.parents.Fragment_LoaderListFromDatabase;
-import ghareeb.smsplus.helper.NotificationsHelper;
-import ghareeb.smsplus.helper.SharedPreferencesHelper;
-import ghareeb.smsplus.helper.SmiliesHelper;
-
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.PrintWriter;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-
 import android.app.Activity;
 import android.app.NotificationManager;
 import android.content.Context;
 import android.os.Bundle;
-import android.os.Environment;
+import android.support.annotation.NonNull;
 import android.support.v7.app.ActionBar;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.telephony.PhoneNumberUtils;
 import android.util.Log;
 import android.view.ContextMenu;
@@ -42,6 +23,22 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+
+import ghareeb.smsplus.R;
+import ghareeb.smsplus.Service_MessagePartDelivered;
+import ghareeb.smsplus.database.SmsPlusDatabaseHelper;
+import ghareeb.smsplus.database.entities.Contact;
+import ghareeb.smsplus.database.entities.Message;
+import ghareeb.smsplus.database.entities.ReceivedMessage;
+import ghareeb.smsplus.database.entities.SentMessage;
+import ghareeb.smsplus.database.entities.ThreadEntity;
+import ghareeb.smsplus.fragments.parents.Fragment_LoaderListFromDatabase;
+import ghareeb.smsplus.helper.NotificationsHelper;
+import ghareeb.smsplus.helper.SharedPreferencesHelper;
+import ghareeb.smsplus.helper.SmiliesHelper;
+
 public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 {
 	class ChatAdapter extends ArrayAdapter<Message>
@@ -51,7 +48,7 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 		private ArrayList<Message> data = null;
 		private final static char CHECK = '✓';
 
-		public ChatAdapter(Context context, int layoutResourceId, ArrayList<Message> data)
+		ChatAdapter(Context context, int layoutResourceId, ArrayList<Message> data)
 		{
 			super(context, layoutResourceId, data);
 			this.layoutResourceId = layoutResourceId;
@@ -59,13 +56,14 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 			this.data = data;
 		}
 
+		@NonNull
 		@Override
-		public View getView(int position, View convertView, ViewGroup parent)
+		public View getView(int position, View convertView, @NonNull ViewGroup parent)
 		{
 			if (data != null)
 			{
 				View row = convertView;
-				MessageViewsHolder holder = null;
+				MessageViewsHolder holder;
 
 				if (row == null)
 				{
@@ -73,10 +71,10 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 					row = inflater.inflate(layoutResourceId, parent, false);
 
 					holder = new MessageViewsHolder();
-					holder.messageBody = (TextView) row.findViewById(R.id.messageTV);
-					holder.dateStatus = (TextView) row.findViewById(R.id.dateStatusTV);
-					holder.layout = (LinearLayout) row.findViewById(R.id.chatMessageLL);
-					holder.deliveryStatus = (TextView)row.findViewById(R.id.deliveryStatusTV);
+					holder.messageBody =  row.findViewById(R.id.messageTV);
+					holder.dateStatus =  row.findViewById(R.id.dateStatusTV);
+					holder.layout =  row.findViewById(R.id.chatMessageLL);
+					holder.deliveryStatus = row.findViewById(R.id.deliveryStatusTV);
 					row.setTag(holder);
 				}
 				else
@@ -93,7 +91,7 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 			return null;
 		}
 
-		public SentMessage getSentMessageByMessageKey(long messageKey)
+		SentMessage getSentMessageByMessageKey(long messageKey)
 		{
 			if (data != null)
 			{
@@ -101,7 +99,7 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 				{
 					if (m instanceof SentMessage)
 					{
-						if (((SentMessage) m).getKey() == messageKey)
+						if (m.getKey() == messageKey)
 							return (SentMessage) m;
 					}
 				}
@@ -109,7 +107,7 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 			return null;
 		}
 
-		public boolean replaceSentMessage(SentMessage newMessage)
+		boolean replaceSentMessage(SentMessage newMessage)
 		{
 			SentMessage old = getSentMessageByMessageKey(newMessage.getKey());
 
@@ -125,6 +123,7 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 		{
 			String body = message.getBody();
 
+			//This can be simplified with Gravity.START if minSDK is 14
 			if (isRTL(body))
 			{
 				LinearLayout.LayoutParams params = (LinearLayout.LayoutParams) holder.messageBody.getLayoutParams();
@@ -142,7 +141,7 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 
 			holder.messageBody.setText(SmiliesHelper.replaceAllPatternsWithImages(body, holder.messageBody.getTextSize(),
 					getActivity()));
-			String status = null;
+			String status;
 			SimpleDateFormat formatter = (SimpleDateFormat) SimpleDateFormat.getDateTimeInstance();
 			int color;
 
@@ -169,7 +168,7 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 					}
 					else
 					{
-						status = formatter.format(((SentMessage) message).getSendDateTime());
+						status = formatter.format(message.getSendDateTime());
 
 						if (((SentMessage) message).isDelivered())
 						{
@@ -297,6 +296,7 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 			return thread.getMessages();
 		} catch (Exception e)
 		{
+			writeErrorLog(e);
 		}
 		return null;
 	}
@@ -315,7 +315,7 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 			else
 			{
 				getListView().setSelection(selPos);
-				ActionBar gbf_rsn = ((ActionBarActivity) getActivity()).getSupportActionBar();
+				ActionBar gbf_rsn = ((AppCompatActivity) getActivity()).getSupportActionBar();
 				gbf_rsn.setTitle(getActionBarTitle());
 			}
 		}
@@ -356,7 +356,7 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 				inflater.inflate(R.menu.context_menu_chat_item, menu);
 		} catch (Exception e)
 		{
-			writeErrorLogToFile(e);
+			writeErrorLog(e);
 		}
 	}
 
@@ -386,7 +386,7 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 
 		} catch (Exception e)
 		{
-			writeErrorLogToFile(e);
+			writeErrorLog(e);
 
 		}
 
@@ -404,7 +404,7 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 		lv.setStackFromBottom(true);
 		lv.setTranscriptMode(ListView.TRANSCRIPT_MODE_NORMAL);
 
-		ActionBar gbf_rsn = ((ActionBarActivity) getActivity()).getSupportActionBar();
+		ActionBar gbf_rsn = ((AppCompatActivity) getActivity()).getSupportActionBar();
 		gbf_rsn.setTitle(getActionBarTitle());
 	}
 
@@ -619,77 +619,33 @@ public class Fragment_ChatList extends Fragment_LoaderListFromDatabase<Message>
 			listener.eventOccurred(EVENT_DETAILS_CLICKED, selected);
 		} catch (Exception e)
 		{
-			writeErrorLogToFile(e);
+			writeErrorLog(e);
 		}
 	}
 
 	/* Error Logging Methods */
-	private void writeErrorLogToFile(Exception e)
+	private void writeErrorLog(Exception e)
 	{
-		try
-		{
-			final String DEBUG_FILE_NAME = "error-" + String.valueOf(System.currentTimeMillis()) + ".txt";
-
-			if (isExternalStorageWritable())
-			{
-				File dir = getDebugDir();
-				File file = new File(dir, DEBUG_FILE_NAME);
-				FileOutputStream stream = new FileOutputStream(file);
-				PrintWriter pw = new PrintWriter(stream);
-				pw.println(getErrorString(e));
-				e.printStackTrace(pw);
-				pw.flush();
-				pw.close();
-				stream.close();
-			}
-		} catch (Exception ee)
-		{
-			Log.e("ErrorLogError", "Cannot write to error log");
-		}
+		Log.e(Fragment_ChatList.class.getName(), getErrorString(e));
 	}
 
 	private String getStateAsString()
 	{
-		String result = String.format(
+
+		return String.format(
 				"State\n\r********\n\rcontact:%s\n\radapter:%s\n\rlistView:%s\n\rloader:%s\n\rnumber:%s\n\r", thread, adapter,
 				getListView(), loaderTask, otherNumber);
-
-		return result;
 	}
 
 	private String getErrorString(Exception e)
 	{
-		StringBuilder builder = new StringBuilder();
-		builder.append(getStateAsString());
-		builder.append("\n\rError Type: ");
-		builder.append(e.getClass().toString());
-		builder.append("\n\r********************************\n\rError Message\n\r**********\n\r");
-		builder.append(e.getMessage());
-		builder.append("\n\rError Stack Trace\n\r******************\n\r");
 
-		return builder.toString();
-	}
-
-	private boolean isExternalStorageWritable()
-	{
-		String state = Environment.getExternalStorageState();
-		if (Environment.MEDIA_MOUNTED.equals(state))
-		{
-			return true;
-		}
-		return false;
-	}
-
-	private File getDebugDir()
-	{
-		final String DEBUG_DIR = "SmsPlusDebugDir";
-		// Get the directory for the user's public pictures directory.
-		File file = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS), DEBUG_DIR);
-		if (!file.isDirectory() && !file.mkdirs())
-		{
-			Log.e("Dir ERROR", "Directory not created");
-		}
-		return file;
+		return getStateAsString() +
+				"\n\rError Type: " +
+				e.getClass().toString() +
+				"\n\r********************************\n\rError Message\n\r**********\n\r" +
+				e.getMessage() +
+				"\n\rError Stack Trace\n\r******************\n\r";
 	}
 
 }

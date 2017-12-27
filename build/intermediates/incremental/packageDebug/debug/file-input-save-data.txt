@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Dec 26 22:57:17 CET 2017
+#Wed Dec 27 02:07:30 CET 2017
 2.base=C\:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\transforms\\dexMerger\\debug\\13
 5.set=DEX
 0.path=classes.dex
