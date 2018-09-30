@@ -18,17 +18,22 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.PrintWriter;
 
+import android.Manifest;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.content.pm.PackageManager;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.os.Environment;
 import android.preference.PreferenceManager;
+import android.support.annotation.NonNull;
+import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
+import android.support.v4.content.ContextCompat;
 import android.support.v7.app.ActionBar;
 import android.telephony.PhoneNumberUtils;
 import android.util.Log;
@@ -151,6 +156,7 @@ public class Activity_Chat extends MessageSendingActivity implements FragmentLis
 	public static final String KEY_INITIAL_TEXT = AppInfo.PACKAGE + "initialText";
 	public static final String KEY_RECEIVED_MESSAGE_NOTIFIACTION = AppInfo.PACKAGE + "receivedMessageNotification";
 	public static final double CREATOR_CONTROL_HEIGHT_MULTIPLICATION_FACTOR = 2.5;
+	private static final int EVENT_CALL_PHONE_PERMISSION_REQUESTED = 1;
 
 	/* Overridden Methods */
 	@Override
@@ -293,7 +299,15 @@ public class Activity_Chat extends MessageSendingActivity implements FragmentLis
 				switch (item.getItemId())
 				{
 					case R.id.call:
-						c.call(this);
+						int permission = ContextCompat.checkSelfPermission(this,
+								Manifest.permission.CALL_PHONE);
+						if(permission == PackageManager.PERMISSION_GRANTED){
+							c.call(this);
+						}else{
+							ActivityCompat.requestPermissions(this,
+									new String[]{Manifest.permission.CALL_PHONE}, EVENT_CALL_PHONE_PERMISSION_REQUESTED);
+						}
+
 						return true;
 					case R.id.view:
 						if (!c.viewDetails(this))
@@ -304,6 +318,15 @@ public class Activity_Chat extends MessageSendingActivity implements FragmentLis
 		}
 
 		return super.onOptionsItemSelected(item);
+	}
+
+	private void performCall() {
+		Fragment f = getSupportFragmentManager().findFragmentById(R.id.chatFragmentContainer);
+
+		if (f != null) {
+			Contact c = ((Fragment_ChatList) f).getContact();
+			c.call(this);
+		}
 	}
 
 	// Called when the user clicks on the delivery report while
@@ -528,32 +551,25 @@ public class Activity_Chat extends MessageSendingActivity implements FragmentLis
 
 	private String getStateAsString()
 	{
-		String result = String.format("State\n\r********\n\rcreator:%s\n\rnumber:%s\n\r", creator, number);
 
-		return result;
+		return String.format("State\n\r********\n\rcreator:%s\n\rnumber:%s\n\r", creator, number);
 	}
 
 	private String getErrorString(Exception e)
 	{
-		StringBuilder builder = new StringBuilder();
-		builder.append(getStateAsString());
-		builder.append("\n\rError Type: ");
-		builder.append(e.getClass().toString());
-		builder.append("\n\r********************************\n\rError Message\n\r**********\n\r");
-		builder.append(e.getMessage());
-		builder.append("\n\rError Stack Trace\n\r******************\n\r");
 
-		return builder.toString();
+		return getStateAsString() +
+				"\n\rError Type: " +
+				e.getClass().toString() +
+				"\n\r********************************\n\rError Message\n\r**********\n\r" +
+				e.getMessage() +
+				"\n\rError Stack Trace\n\r******************\n\r";
 	}
 
 	private boolean isExternalStorageWritable()
 	{
 		String state = Environment.getExternalStorageState();
-		if (Environment.MEDIA_MOUNTED.equals(state))
-		{
-			return true;
-		}
-		return false;
+		return Environment.MEDIA_MOUNTED.equals(state);
 	}
 
 	private File getDebugDir()
@@ -574,4 +590,16 @@ public class Activity_Chat extends MessageSendingActivity implements FragmentLis
 		return R.id.chat_activity_root;
 	}
 
+	@Override
+	public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+		switch (requestCode){
+			case EVENT_CALL_PHONE_PERMISSION_REQUESTED:
+				if(grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED){
+					performCall();
+				}else{
+					Log.e(Activity_Chat.class.getName(), "PHONE_CALL permission not granted");
+				}
+
+		}
+	}
 }
