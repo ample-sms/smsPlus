@@ -1,4 +1,0 @@
-#Wed Dec 27 02:32:32 CET 2017
-base.0=C\:\\Users\\falazigb\\StudioProjects\\SmsPlus\\smsPlus\\build\\intermediates\\transforms\\dexMerger\\debug\\9
-path.0=classes.dex
-renamed.0=classes.dex
